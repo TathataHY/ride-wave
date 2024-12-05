@@ -1,0 +1,16 @@
+{
+  "name": "@ride-wave/socket",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Tathata <andre.yovera1@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "geolib": "^3.3.4",
+    "ws": "^8.18.0"
+  }
+}
